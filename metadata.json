@@ -1,0 +1,5 @@
+{
+  "name": "SlimerNet API Monitor",
+  "description": "A Slimer-green themed API and process monitor that scans for suspicious activity, educates users on API usage, and features an integrated AI security agent. (React Frontend Implementation)",
+  "requestFramePermissions": []
+}
